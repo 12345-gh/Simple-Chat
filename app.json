@@ -1,0 +1,4 @@
+{
+  "name": "Small Chat",
+  "description": "A simple Small Chat single page application using Node.js and Socket.io"
+}
